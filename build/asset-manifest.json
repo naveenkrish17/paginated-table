@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paginated-table/static/css/main.073c9b0a.css",
+    "main.js": "/paginated-table/static/js/main.80e86f45.js",
+    "static/js/787.f401242e.chunk.js": "/paginated-table/static/js/787.f401242e.chunk.js",
+    "index.html": "/paginated-table/index.html",
+    "main.073c9b0a.css.map": "/paginated-table/static/css/main.073c9b0a.css.map",
+    "main.80e86f45.js.map": "/paginated-table/static/js/main.80e86f45.js.map",
+    "787.f401242e.chunk.js.map": "/paginated-table/static/js/787.f401242e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.80e86f45.js"
+  ]
+}
